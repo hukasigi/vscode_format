@@ -1,0 +1,47 @@
+{
+    //"C_Cpp.clang_format_style": "{Language: Cpp, IndentWidth: 4, IndentAccessModifiers: true, IndentPPDirectives: BeforeHash, ColumnLimit: 256, BreakBeforeBraces: Attach, AlwaysBreakAfterReturnType: None, AlwaysBreakTemplateDeclarations: Yes, BreakConstructorInitializers: BeforeColon, PackConstructorInitializers: BinPack, BinPackParameters: true, AllowShortFunctionsOnASingleLine: Inline, AllowShortIfStatementsOnASingleLine: OnlyFirstIf, AllowShortCaseLabelsOnASingleLine: true, AllowShortEnumsOnASingleLine: false, AllowAllArgumentsOnNextLine: false, AlignOperands: Align}",
+    //"C_Cpp.clang_format_style": "file",
+    //"C_Cpp.clang_format_style": "{#https://qiita.com/koyukitukimino/items/9b8f74d1ae307a7017d3
+    "C_Cpp.clang_format_style": "file:C://VScode_format//.clang-format.txt",
+    "cSpell.userWords": [
+        "Behaviour",
+        "doinayuta",
+        "espressif",
+        "hoge",
+        "Horizonal",
+        "kbps",
+        "knolleary",
+        "Lerp",
+        "Mathf",
+        "Mistry",
+        "nayuta",
+        "neko",
+        "Ollision",
+        "onehorse",
+        "onreceive",
+        "pablomarquez",
+        "Rigidbody",
+        "Sandeep",
+        "sandeepmistry",
+        "Vecter"
+    ],
+    "code-runner.executorMap": {
+        "csharp": "dotnet run"
+    },
+    "code-runner.runInTerminal": true,
+    "workbench.colorTheme": "Monokai Vibrant",
+    "workbench.iconTheme": "Monokai Pro Light Icons",
+    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "files.autoSave": "onFocusChange",
+    "files.autoSaveWhenNoErrors": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "C_Cpp.default.compilerPath": "C:\\msys64\\ucrt64\\bin\\gcc.exe",
+    "stm32-for-vscode.openOCDPath": false,
+    "stm32-for-vscode.makePath": false,
+    "stm32-for-vscode.armToolchainPath": false,
+    "editor.unicodeHighlight.includeStrings": false,
+    "C_Cpp.autoAddFileAssociations": true,
+    "glassit.alpha": 240
+}
