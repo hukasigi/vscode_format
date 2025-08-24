@@ -1,0 +1,42 @@
+# 言語と基本インデント設定
+Language: Cpp
+IndentWidth: 4
+IndentAccessModifiers: true
+IndentPPDirectives: BeforeHash
+EmptyLineBeforeAccessModifier: Always
+
+# 行の長さと改行スタイル
+ColumnLimit: 128
+BreakBeforeBraces: Attach
+BreakConstructorInitializers: BeforeColon
+PackConstructorInitializers: BinPack
+
+# 改行に関する細かい制御
+AlwaysBreakAfterReturnType: None
+AlwaysBreakTemplateDeclarations: No
+BinPackParameters: true
+AllowAllArgumentsOnNextLine: false
+
+# 短いコードの整形方針
+AllowShortFunctionsOnASingleLine: Inline
+AllowShortIfStatementsOnASingleLine: OnlyFirstIf
+AllowShortCaseLabelsOnASingleLine: true
+AllowShortEnumsOnASingleLine: false
+
+# 式や演算子の整列
+AlignOperands: Align
+DerivePointerAlignment: false
+PointerAlignment: Left
+
+# コメント整形
+ReflowComments: true
+
+# 構造体の整列
+AlignConsecutiveDeclarations: true
+AlignConsecutiveAssignments: true
+AlignConsecutiveMacros: true
+AlignArrayOfStructures: Left
+
+# 代入整列と宣言整列（複数行の = や型名を揃える）
+AlignAssignments: true
+AlignTrailingComments: true
